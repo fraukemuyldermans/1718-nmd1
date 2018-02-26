@@ -24,14 +24,17 @@ html{
 }
 
 p{
-    text-align: left;
     font-size: 16px;
     margin-left: 20%;
-    font-family: 'verdana', sans-serif;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
-.foto{
+#foto img {
+    width: 60%;
+
+}
+
+#foto{
+    width: 40%;
     float: left;
 }
