@@ -16,11 +16,10 @@ body{
     margin-right: auto;
     margin-bottom: auto;
     margin-left: auto;
-text-align: center;
 }
 
 html{ 
-    background-color: rgb(181,232,232);
+    background-color: rgb(240,252,250);
 }
 
 p{
@@ -29,12 +28,7 @@ p{
     margin-bottom: 10px;
 }
 
-#foto img {
-    width: 60%;
-
-}
-
-#foto{
-    width: 40%;
-    float: left;
+img{
+    width: 50%;
+    float: left
 }
