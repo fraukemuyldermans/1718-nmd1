@@ -20,7 +20,7 @@ text-align: center;
 }
 
 html{ 
-    background-color: rgb(255,220,71)
+    background-color: rgb(181,232,232);
 }
 
 p{
@@ -33,7 +33,7 @@ p{
 }
 
 .foto{
-    height: 350px;
-    width: 50%;
+    height: 200px;
+    width: 20%;
     float: left;
 }
